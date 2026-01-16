@@ -1,3 +1,3 @@
 
 name of repository  e-plantShopping
-react applition about shopping plants
+react application about shopping plants
